@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Node / docs 构建常见
+node_modules/
+dist/
+build/
+.cache/
+.tmp/
